@@ -21,7 +21,7 @@ st.set_page_config(
 # ============================================================
 
 # Google Apps Script URL (you'll get this after setup)
-GOOGLE_SCRIPT_URL = "YOUR_GOOGLE_SCRIPT_URL_HERE"
+GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyF7EajmGETRb38filBfcwdRD449cz4zy5UfBbVCtELKeXvhsgxEV1lDp1YsQEjuiGw0Q/exec"
 
 # Exam settings
 EXAM_NAME = "Final Scenarios"
